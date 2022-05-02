@@ -1,0 +1,2 @@
+# Nuxt-Exemplo
+Muito estranho
